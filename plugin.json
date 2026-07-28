@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/explyt/plugin-marketplace/main/docs/schema/plugin-manifest.schema.json",
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "name": "Marketplace Smoke Test",
+  "description": "A minimal plugin used to verify the marketplace publication pipeline end to end.",
+  "author": { "name": "Explyt", "url": "https://explyt.ai" },
+  "license": "MIT",
+  "homepage": "https://explyt.ai",
+  "icon": "icon.svg"
+}
